@@ -65,7 +65,7 @@ main{
 .influencer-image img{
     width:100%;
     margin-top: 150px;
-    margin-left: 160px;
+    margin-left: 130px;
 }
 .image img{
     width:100%;
@@ -178,7 +178,7 @@ p{
 }
 .learn{
     
-    font-size: 40px;
+    font-size: 38px;
     margin-left: 138px; 
     margin-top: 140px;
     color: #0A0826;
@@ -207,13 +207,13 @@ footer{
     
 }
 footer .end{
-   font-size:16px;
+   font-size:14px;
    color:#D9DBE1;
    margin-right: 100px;
    margin-left: 870px;
 }
 footer .complete{
-     font-size:16px;
+     font-size:14px;
    color:#D9DBE1;
    margin-right: 100px;
    margin-left: 935px;
